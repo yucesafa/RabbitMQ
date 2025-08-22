@@ -52,7 +52,7 @@ namespace RabbitMQ.Publisher
 
             Console.WriteLine("Message sent to header-exchange with headers.");
 
-            Console ReadLine();
+            Console.ReadLine();
         }
     }
 }
